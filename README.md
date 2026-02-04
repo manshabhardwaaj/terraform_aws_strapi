@@ -1,5 +1,6 @@
 # terraform_aws_strapi
 
+LOOM VIDEO LINK-https://www.loom.com/share/e5a1d2e173b9428e957535bb4a0cc7b1
 
 AWS Strapi Infrastructure Project
 
