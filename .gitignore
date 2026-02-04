@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+.tmp/
+build/
+.env
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+*.tfvars
+AWSCLIV2.pkg
+*.pem
+.DS_Store
